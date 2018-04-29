@@ -37,11 +37,15 @@ https://larsbergqvist.wordpress.com/2017/02/07/home-assistant-integrating-restfu
 
 https://github.com/alexa/alexa-avs-sample-app/wiki/Raspberry-Pi
 
-## technical ressources
+## technical ressources and frameworks
 
 https://matrix-io.github.io/matrix-documentation/matrix-os/overview/
 
 http://mqtt.org/
+
+http://developer.smartthings.com/developers/tools
+
+https://hacks.mozilla.org/2018/02/how-to-build-your-own-private-smart-home-with-a-raspberry-pi-and-mozillas-things-gateway/
 
 ## Stores to buy electronics 
 
