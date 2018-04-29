@@ -1,14 +1,16 @@
 # Democratic-IoT
 DIY IoT research
 
+## Books
+
+https://issuu.com/hassenzahl/docs/hassenzahl_book_experience_design_sample
+
+https://fr.scribd.com/doc/190223054/Nomadic-Furniture
 
 ## co-design with the users 
 
 http://aplusa.org/
 
-## DIY attempts
-
-https://fr.scribd.com/doc/190223054/Nomadic-Furniture
 
 ## cool projects 
 
