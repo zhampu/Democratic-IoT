@@ -10,7 +10,7 @@ http://aplusa.org/
 
 https://fr.scribd.com/doc/190223054/Nomadic-Furniture
 
-## cool peojects 
+## cool projects 
 
 https://makezine.com/projects/raspberry-pirate-radio/
 
@@ -37,3 +37,7 @@ Examples:
 http://fff.xpub.nl/wiki/Method
 
 http://beyond-social.org/wiki/index.php/Artists_and_designers_are_redesigning_business
+
+website inspirations:
+
+https://www.perdu.nl/en/
