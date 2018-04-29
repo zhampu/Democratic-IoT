@@ -33,6 +33,16 @@ https://matrix-io.github.io/matrix-documentation/matrix-os/overview/
 
 http://mqtt.org/
 
+## Stores to buy electronics 
+
+https://www.kubii.fr/kits-raspberry-pi/2079-kit-pi-zero-wh-kubii-3272496009523.html
+
+www.pi-shop.ch
+
+https://www.mouser.ch
+
+www.digitec.ch
+
 ## WIKI and documentation
 
 https://www.semantic-mediawiki.org/wiki/Help:Installation/fr
