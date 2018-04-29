@@ -2,10 +2,17 @@
 DIY IoT research
 
 
+## Alternative to Alexa,Siri and Google voice
+home.mycroft.ai
+
+https://github.com/MycroftAI/mycroft-skills
+
+https://gitlab.com/robconnolly/mycroft-home-assistant
+
 ## Tools
 
 https://www.tinkercad.com/
-
+https://www.blynk.cc/
 ## Books
 
 https://issuu.com/hassenzahl/docs/hassenzahl_book_experience_design_sample
