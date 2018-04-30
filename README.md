@@ -72,3 +72,12 @@ http://beyond-social.org/wiki/index.php/Artists_and_designers_are_redesigning_bu
 website inspirations:
 
 https://www.perdu.nl/en/
+
+
+# Enter the configuration.yaml
+
+sudo su -s /bin/bash homeassistant
+
+cd /home/homeassistant/.homeassistant
+
+nano configuration.yaml
