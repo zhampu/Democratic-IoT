@@ -69,3 +69,9 @@ cloud:
 group: !include groups.yaml
 automation: !include automations.yaml
 script: !include scripts.yaml
+
+# Example Fan                     
+switch:
+  - platform: rpi_gpio
+    ports:
+      17: Fan   
