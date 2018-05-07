@@ -16,6 +16,8 @@ https://github.com/google/voice-iot-maker-demo/
 
 https://github.com/androidthings/sample-googleassistant
 
+https://dronebotworkshop.com/hacking-google-aiy-voice-kit-2/
+
 ## Tools
 
 https://www.tinkercad.com/
