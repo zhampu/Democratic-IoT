@@ -22,6 +22,10 @@ https://hackaday.com/2017/05/30/diy-google-aiy/
 
 https://medium.com/@aallan/hands-on-with-the-aiy-projects-voice-kit-7c810856faaf
 
+https://github.com/MycroftAI/mycroft-core
+
+https://github.com/btotharye/mycroft-homeassistant/tree/2edf3a75261a6e64ab3062e923ff851c46ea1b5b
+
 ## Tools
 
 https://www.tinkercad.com/
