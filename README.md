@@ -45,6 +45,12 @@ https://larsbergqvist.wordpress.com/2017/02/07/home-assistant-integrating-restfu
 
 https://github.com/alexa/alexa-avs-sample-app/wiki/Raspberry-Pi
 
+http://www.instructables.com/id/1986-Google-Pi-Intercom/
+
+http://www.instructables.com/id/Google-Voice-Search-O-Matic/
+
+http://www.instructables.com/id/RabbitPi-the-Alexa-Enabled-IFTTT-Connected-Ear-Wig/
+
 ## technical ressources and frameworks
 
 https://matrix-io.github.io/matrix-documentation/matrix-os/overview/
