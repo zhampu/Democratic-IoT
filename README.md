@@ -14,6 +14,8 @@ https://mycroft.ai/get-mycroft/
 
 https://github.com/google/voice-iot-maker-demo/
 
+https://github.com/androidthings/sample-googleassistant
+
 ## Tools
 
 https://www.tinkercad.com/
