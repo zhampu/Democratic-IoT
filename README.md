@@ -20,6 +20,8 @@ https://dronebotworkshop.com/hacking-google-aiy-voice-kit-2/
 
 https://hackaday.com/2017/05/30/diy-google-aiy/
 
+https://medium.com/@aallan/hands-on-with-the-aiy-projects-voice-kit-7c810856faaf
+
 ## Tools
 
 https://www.tinkercad.com/
