@@ -12,6 +12,8 @@ https://gitlab.com/robconnolly/mycroft-home-assistant
 
 https://mycroft.ai/get-mycroft/
 
+https://github.com/google/voice-iot-maker-demo/
+
 ## Tools
 
 https://www.tinkercad.com/
