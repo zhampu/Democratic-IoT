@@ -67,6 +67,8 @@ http://developer.smartthings.com/developers/tools
 
 https://hacks.mozilla.org/2018/02/how-to-build-your-own-private-smart-home-with-a-raspberry-pi-and-mozillas-things-gateway/
 
+https://hareshmiriyala.wordpress.com/2018/02/13/connecting-a-raspberry-pi-3-to-enterprise-wifi/
+
 ## Stores to buy electronics 
 
 https://www.kubii.fr/kits-raspberry-pi/2079-kit-pi-zero-wh-kubii-3272496009523.html
