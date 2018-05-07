@@ -18,6 +18,8 @@ https://github.com/androidthings/sample-googleassistant
 
 https://dronebotworkshop.com/hacking-google-aiy-voice-kit-2/
 
+https://hackaday.com/2017/05/30/diy-google-aiy/
+
 ## Tools
 
 https://www.tinkercad.com/
