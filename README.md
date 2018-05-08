@@ -103,3 +103,7 @@ sudo su -s /bin/bash homeassistant
 cd /home/homeassistant/.homeassistant
 
 nano configuration.yaml
+
+## Exhibition 
+
+https://www.ensad.fr/es/projets/interstices
