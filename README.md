@@ -26,6 +26,27 @@ https://github.com/MycroftAI/mycroft-core
 
 https://github.com/btotharye/mycroft-homeassistant/tree/2edf3a75261a6e64ab3062e923ff851c46ea1b5b
 
+
+hassbian-scripts/hassbian_config.md at master · home-assistant/hassbian-scripts
+https://github.com/home-assistant/hassbian-scripts/blob/master/docs/hassbian_config.md
+
+https://community.home-assistant.io/search?q=mycroft
+
+https://community.home-assistant.io/t/mycroft-ai/1279
+
+What is the best integrated voice command device in HASS for my case? - Third party integrations - Home Assistant Community
+https://community.home-assistant.io/t/what-is-the-best-integrated-voice-command-device-in-hass-for-my-case/35391
+
+A raspberry pi turned into a Google Home, and it works! - Third party integrations - Home Assistant Community
+https://community.home-assistant.io/t/a-raspberry-pi-turned-into-a-google-home-and-it-works/16692/7
+
+Custom Panel using React - Home Assistant
+https://www.home-assistant.io/cookbook/custom_panel_using_react/
+
+Home Assistant Cloud - Home Assistant
+https://www.home-assistant.io/cloud/
+
+
 ## Tools
 
 https://www.tinkercad.com/
